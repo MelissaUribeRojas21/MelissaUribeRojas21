@@ -2,8 +2,15 @@
     <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="180" frameBorder="0"   class="giphy-embed" allowFullScreen></img>
     <h1 align="center">Welcome! I'm Meli 😎</h1>
     <h3 align="center">💻 A MERN Full Stack Developer & Mobile Apps 💻</h3>
-    <div>
-        <img src="html-5.png" width="40" height="40"/> 
+    <div align="center">
+        <img src="html-5.png" width="30" height="30"/> 
+        <img src="css.png" width="30" height="30"/> 
+        <img src="js.png" width="30" height="30"/> 
+        <img src="mongodb.png" width="30" height="30"/> 
+        <img src="express.webp" width="30" height="30"/> 
+        <img src="React-icon.svg.png" width="30" height="30"/> 
+        <img src="nodejs.png" width="30" height="30"/> 
+        <img src="gh.png" width="30" height="30"/> 
       
     </div>
     <h4>🧠 HTML | CSS3 | JavaScript | MongoDB | Express | React | React Native | NodeJS | Github 🧠</h4>
