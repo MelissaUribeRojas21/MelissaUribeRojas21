@@ -42,7 +42,7 @@
 <img align="right"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="280" height="280" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="gap: 100;">
     <a href="mailto:lissauribe21@gmail.com">
         <img src="gmail.png" alt="melissas mail" height="30" width="40" align="center">
     </a>
