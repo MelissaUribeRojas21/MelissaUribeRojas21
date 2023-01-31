@@ -44,7 +44,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://api.whatsapp.com/send?phone=%2B573219848497&text=">
-        <img src="whatsapp.png" alt="">
+        <img src="whatsapp.png" alt="melissas whatsapp" height="30" width="30" align="center">
     </a>
     <a href="mailto:lissauribe21@gmail.com">
         <img src="gmail.png" alt="melissas mail" height="30" width="30" align="center">
