@@ -1,11 +1,9 @@
 <div id="header-gif" align="center">
-<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<h1 align="center">Welcome!, I'm Meli 😎</h1>
-<h3 align="center">💻 A MERN Full Stack Developer & Mobile Apps 💻</h3>
-<h4>🧠 HTML | CSS3 | JavaScript | MongoDB | Express | React | React Native | NodeJS | Github 🧠</h4>
-<h4>📍 From Bogotá, Colombia 📍</h4>
-
-
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" height="300" frameBorder="0"   class="giphy-embed" allowFullScreen></img>
+    <h1 align="center">Welcome! I'm Meli 😎</h1>
+    <h3 align="center">💻 A MERN Full Stack Developer & Mobile Apps 💻</h3>
+    <h4>🧠 HTML | CSS3 | JavaScript | MongoDB | Express | React | React Native | NodeJS | Github 🧠</h4>
+    <h4>📍 From Bogotá, Colombia 📍</h4>
 </div>
 
 <!--
