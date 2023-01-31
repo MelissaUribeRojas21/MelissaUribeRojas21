@@ -1,5 +1,5 @@
 <div id="header-gif" align="center">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" height="300" frameBorder="0"   class="giphy-embed" allowFullScreen></img>
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="180" frameBorder="0"   class="giphy-embed" allowFullScreen></img>
     <h1 align="center">Welcome! I'm Meli 😎</h1>
     <h3 align="center">💻 A MERN Full Stack Developer & Mobile Apps 💻</h3>
     <h4>🧠 HTML | CSS3 | JavaScript | MongoDB | Express | React | React Native | NodeJS | Github 🧠</h4>
