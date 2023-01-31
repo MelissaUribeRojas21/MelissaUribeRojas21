@@ -71,9 +71,12 @@ I am a proactive, hard-working, self-taught, diligent, creative person, with the
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MelissaUribeRojas21&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?MelissaUribeRojas21=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MelissaUribeRojas21&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MelissaUribeRojas21=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaUribeRojas21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
