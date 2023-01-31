@@ -2,14 +2,16 @@
     <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="180" frameBorder="0"   class="giphy-embed" allowFullScreen></img>
     <h1 align="center">Welcome! I'm Meli 😎</h1>
     <h3 align="center">💻 A MERN Full Stack Developer & Mobile Apps 💻</h3>
+    <div>
+        <a href="https://www.linkedin.com/in/melissa-uriber/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </div>
     <h4>🧠 HTML | CSS3 | JavaScript | MongoDB | Express | React | React Native | NodeJS | Github 🧠</h4>
     <h4>📍 From Bogotá, Colombia 📍</h4>
 </div>
 
 <!--
-**MelissaUribeRojas21/MelissaUribeRojas21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
