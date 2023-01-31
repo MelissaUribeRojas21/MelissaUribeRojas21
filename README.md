@@ -14,6 +14,7 @@
     </div>
     <h4>🧠 HTML | CSS3 | JavaScript | MongoDB | Express | React | React Native | NodeJS | Github 🧠</h4>
     <h4>📍 From Bogotá, Colombia 📍</h4>
+    ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
