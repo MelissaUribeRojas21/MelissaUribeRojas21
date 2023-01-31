@@ -34,7 +34,7 @@
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
         </a> 
     </p>
-    <h4>🧠 HTML | CSS3 | JavaScript | MongoDB | Express | React | React Native | NodeJS | Github 🧠</h4>
+    <h4>🧠 HTML | CSS3 | JavaScript | MongoDB | Express | React | React Native | NodeJS | Github | Postman 🧠</h4>
     <h4>📍 From Bogotá, Colombia 📍</h4>
 
 ---
@@ -42,9 +42,12 @@
 <img align="right"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="280" height="280" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="gap: 100;">
+<p align="left">
+    <a href="https://api.whatsapp.com/send?phone=%2B573219848497&text=">
+        <img src="whatsapp.png" alt="">
+    </a>
     <a href="mailto:lissauribe21@gmail.com">
-        <img src="gmail.png" alt="melissas mail" height="30" width="40" align="center">
+        <img src="gmail.png" alt="melissas mail" height="30" width="30" align="center">
     </a>
     <a href="https://www.linkedin.com/in/melissa-uriber/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melissa uribe linkedin" height="30" width="40" />
