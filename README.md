@@ -44,7 +44,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="mailto:lissauribe21@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="melissas mail" height="30" width="40">
+        <img src="https://img.shields.io/badge/D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="melissas mail" height="30" width="40">
     </a>
     <a href="https://www.linkedin.com/in/melissa-uriber/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melissa uribe linkedin" height="30" width="40" />
