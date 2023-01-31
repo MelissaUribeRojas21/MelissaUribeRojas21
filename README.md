@@ -65,6 +65,13 @@
 I am a proactive, hard-working, self-taught, diligent, creative person, with the power of self-management, with an excellent level of English, and I am willing to learn and perform any task necessary to help your business or company achieve its objectives. 💪🏼✨
 </p>
 
+---
+
+<h3 align="left">My Stats:</h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MelissaUribeRojas21&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?MelissaUribeRojas21=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
