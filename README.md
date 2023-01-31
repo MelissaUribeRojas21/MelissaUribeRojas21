@@ -17,11 +17,13 @@
 
 ---
 
+<img align="right"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/melissa-uriber/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melissa uribe linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__lunela__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://discord.gg/Melissa.Uribe21#0790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="melissa uribe 21" height="30" width="40" /></a>
+<a href="https://discord.gg/6TBdByT4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="melissa uribe 21" height="30" width="40" /></a>
 </p>
 
  
