@@ -1,5 +1,5 @@
 <div id="header-gif" align="center">
-<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/nuufztgCvyJZIuSkgd/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
 <h1 align="center">Welcome!, I'm Meli 😎</h1>
 <h3 align="center">💻 A MERN Full Stack Developer & Mobile Apps 💻</h3>
 <h4>🧠 HTML | CSS3 | JavaScript | MongoDB | Express | React | React Native | NodeJS | Github 🧠</h4>
